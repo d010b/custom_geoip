@@ -8,7 +8,8 @@ Category: firehol (Aggregated list of attacking IPs)
 Update Frequency: [Weekly]
 Usage in Xray
 To use this blacklist, download the .dat file to your Xray assets directory (usually where the xray binary or geoip.dat is located) and add the following rule to your routing configuration:
-json
+
+
 {
   "routing": {
     "domainStrategy": "IPOnDemand",
@@ -23,7 +24,7 @@ json
     ]
   }
 }
-Use code with caution.
+
 
 Direct Download
 You can use the following link to automate updates or manual downloads:
