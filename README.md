@@ -20,7 +20,8 @@ To use this blacklist, download the .dat file to your Xray assets directory (usu
         "type": "field",
         "outboundTag": "block",
         "ip": [
-          "ext:custom_geoip.dat:firehol"
+        "source": ["ext:custom_geoip.dat:firehol"],
+        "ext:custom_geoip.dat:firehol"
         ]
       }
     ]
