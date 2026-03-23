@@ -1,0 +1,4 @@
+# GeoIP Database Information
+Last Update: 2026-03-23 23:42:45
+File Size: 48K
+Source: /opt/reality-ezpz/custom_geoip.dat
