@@ -1,4 +1,9 @@
-# GeoIP Database Information
-Last Update: 2026-03-25 10:10:44
-File Size: 48K
-Source: /opt/reality-ezpz/custom_geoip.dat
+# GeoIP Databases Information
+Last Update: 2026-03-26 00:59:11
+Server: d010b.fvds.ru
+User: root
+
+## Files:
+- geoip.dat: 1.7M (MD5: 1dc755e2e4dad4ea9593c6f51578250f)
+- geosite.dat: 32M (MD5: b84d9da7ac9e29cb9d0bc3be2c5538a7)
+- custom_geoip.dat: 48K (MD5: 0270bcc6cfacffaf42ef30fe745cbcff)
