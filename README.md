@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
     - "category-travel-ru"
     - "category-ecommerce-ru"
 
-geoip:
+    geoip:
   url: "https://raw.githubusercontent.com/d010b/custom_geoip/main/filtered/geoip.dat"
   keep_categories:
     - "cloudflare"
