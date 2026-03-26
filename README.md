@@ -12,16 +12,21 @@ Usage in Xray
 To use this blacklist, download the .dat file to your Xray assets directory (usually where the xray binary or geoip.dat is located) and add the following rule to your routing configuration:
 
 {
-    "rules": [
+  "rules": [
+      {
+        "type": "field",
+        "outboundTag": "block",
+        "source": [
+          "ext:custom_geoip.dat:firehol"
+        ]
+      },
       {
         "type": "field",
         "outboundTag": "block",
         "ip": [
-        "source": ["ext:custom_geoip.dat:firehol"],
-        "ext:custom_geoip.dat:firehol"
+          "ext:custom_geoip.dat:firehol"
         ]
-      }
-    ]
+      },
   }
 
 
