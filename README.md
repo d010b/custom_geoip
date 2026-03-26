@@ -32,7 +32,7 @@ To use this blacklist, download the .dat file to your Xray assets directory (usu
     }
   ]
 }
-
+```
 
 Direct Download
 You can use the following link to automate updates or manual downloads:
