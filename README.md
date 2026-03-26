@@ -11,7 +11,7 @@ Usage in Xray
 
 To use this blacklist, download the .dat file to your Xray assets directory (usually where the xray binary or geoip.dat is located) and add the following rule to your routing configuration:
 
-### Структура JSON
+###  JSON
 
 ```json
 {
@@ -33,7 +33,10 @@ To use this blacklist, download the .dat file to your Xray assets directory (usu
   ]
 }
 ```
+The `source` rule blocks incoming traffic originating from the specified IP addresses.
+The `ip` rule blocks outgoing traffic destined for the specified IP addresses.
 
+When used together, these rules ensure bidirectional blocking for all IP addresses contained in the firehol list.
 Direct Download
 You can use the following link to automate updates or manual downloads:
 https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
