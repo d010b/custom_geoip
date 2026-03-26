@@ -11,10 +11,7 @@ Usage in Xray
 
 To use this blacklist, download the .dat file to your Xray assets directory (usually where the xray binary or geoip.dat is located) and add the following rule to your routing configuration:
 
-
-{
-  "routing": {
-    "domainStrategy": "IPOnDemand",
+}
     "rules": [
       {
         "type": "field",
@@ -26,7 +23,6 @@ To use this blacklist, download the .dat file to your Xray assets directory (usu
       }
     ]
   }
-}
 
 
 Direct Download
