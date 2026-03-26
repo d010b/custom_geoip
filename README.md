@@ -34,6 +34,8 @@ Direct Download
 You can use the following link to automate updates or manual downloads:
 https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
 
+
+Using full files, which often weigh tens of megabytes, overloads the RAM at startup. The geoip.dat and geosite.dat files, free of unnecessary content…
 	geosite:
   url: "https://raw.githubusercontent.com/d010b/custom_geoip/main/filtered/geosite.dat"
   keep_categories:
