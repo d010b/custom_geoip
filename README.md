@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
     - "vk"
     - "meta"
     - "category-game-platforms-download"
-    - "yundaex"
+    - "yandex"
     - "zoom"
     - "win-spy"
     - "category-ai-chat-!cn"
