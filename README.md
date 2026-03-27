@@ -47,9 +47,10 @@ https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
 Using full files, which often weigh tens of megabytes, overloads the RAM at startup. The geoip.dat and geosite.dat files, free of unnecessary content…
 
 geosite:
-```json
+
 url: 
 	https://raw.githubusercontent.com/d010b/custom_geoip/main/filtered/geosite.dat
+```json
   keep_categories:
     - "category-ru"
     - "tiktok"
@@ -97,9 +98,10 @@ url:
     - "category-ecommerce-ru"
 ```
   geoip:
-  ```json
+
   url: 
   	https://raw.githubusercontent.com/d010b/custom_geoip/main/filtered/geoip.dat
+  ```json
   keep_categories:
     - "cloudflare"
     - "cloudfront"
