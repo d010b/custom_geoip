@@ -105,7 +105,7 @@ url:
   keep_categories:
     - "cloudflare"
     - "cloudfront"
-    - "ddos-guard"
+    - "firehol"
     - "facebook"
     - "google"
     - "netflix"
