@@ -91,6 +91,7 @@ url:
     - "category-entertainment-ru"
     - "cloudflare"
     - "hdrezka"
+    - "google"
     - "ru-blocked"
     - "telegram"
     - "instagram"
@@ -118,4 +119,5 @@ url:
     - "twitter"
     - "yandex"
     - "tor"
+    - "whitelist"
   ```
