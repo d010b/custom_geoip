@@ -133,6 +133,7 @@ url:
         "outboundTag": "block",
         "source":  [
         "geoip:firehol"
+      ]
       },
       {
         // RULE 2: Whitelist
@@ -150,11 +151,11 @@ url:
       // Nothing will work without these lines
       {
         "tag": "direct",
-        "protocol": "freedom",
+        "protocol": "freedom"
       },
       {
         "tag": "block",
-        "protocol": "blackhole",
+        "protocol": "blackhole"
       }
     ]
   }
