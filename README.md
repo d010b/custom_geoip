@@ -121,3 +121,42 @@ url:
     - "tor"
     - "whitelist"
   ```
+  ```json
+{
+  "routing": {
+    "rules": [
+      {
+        // RULE 1: Block "bad" IPs (FireHOL)
+        // If the incoming IP falls into the firehol category,
+        // the connection is immediately blocked (blackhole).
+        "type": "field",
+        "outboundTag": "block",
+        "source":  [
+        "geoip:firehol"
+      },
+      {
+        // RULE 2: Whitelist
+        // If the destination IP falls into the whitelist category,
+        // traffic is sent directly, bypassing the proxy.
+        // This is useful to avoid proxying traffic to the Russian whitelist.
+        "type": "field",
+        "ip": ["geoip:whitelist"],
+        "outboundTag": "direct"
+      }
+      // ... other rules
+    ],
+    
+    "outbounds": [
+      // Nothing will work without these lines
+      {
+        "tag": "direct",
+        "protocol": "freedom",
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole",
+      }
+    ]
+  }
+}
+  ```
