@@ -127,7 +127,7 @@ url:
 "domainStrategy": "IPOnDemand",
     "rules": [
       {
-        // RULE 1: Block "bad" IPs (FireHOL)
+        // RULE 1: Block "bad" IPs (FireHOL) for !!!!Server!!!!
         // If the incoming IP falls into the firehol category,
         // the connection is immediately blocked (blackhole).
         "type": "field",
@@ -137,7 +137,7 @@ url:
       ]
       },
       {
-        // RULE 2: Whitelist
+        // RULE 2: Whitelist direct for client or BLOCK for server
         // If the destination IP falls into the whitelist category,
         // traffic is sent directly, bypassing the proxy.
         // This is useful to avoid proxying traffic to the Russian whitelist.
