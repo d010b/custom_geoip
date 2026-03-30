@@ -124,6 +124,7 @@ url:
   ```json
 {
   "routing": {
+"domainStrategy": "IPOnDemand",
     "rules": [
       {
         // RULE 1: Block "bad" IPs (FireHOL)
