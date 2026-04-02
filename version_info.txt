@@ -1,9 +1,9 @@
 # GeoIP Databases Information
-Last Update: 2026-04-02 17:21:20
+Last Update: 2026-04-03 01:02:11
 Server: d010b.fvds.ru
 User: root
 
 ## Files:
-- geoip.dat: 1.8M (MD5: eb4852f2f3c83c398bfbbbf9bc2051dc)
-- geosite.dat: 33M (MD5: 09d668fe1b779ff5e99a52cf3a5b33b0)
-- custom_geoip.dat: 48K (MD5: 9ea003b719508e2291d014ceb32fc9ff)
+- geoip.dat: 1.8M (MD5: 4e5cd0b98fc731e6e3874725b75a7ddd)
+- geosite.dat: 33M (MD5: 8574d533b9458b968f22f3ec30c653c2)
+- custom_geoip.dat: 48K (MD5: 5523ed9ec6ecb2d2433ac7a934a513bc)
