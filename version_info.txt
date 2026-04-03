@@ -1,7 +1,7 @@
 # GeoIP Databases Information
 Last Update: 2026-04-03 20:04:27
-Server: d010b.fvds.ru
-User: root
+
+
 
 ## Files:
 - geoip.dat: 1.8M (MD5: f780cee46398b332cb95c3b704e7b698)
