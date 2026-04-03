@@ -149,6 +149,11 @@ url:
         "type": "field",
         "ip": ["geoip:whitelist"],
         "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "ip": ["geoip:max"],
+        "outboundTag": "direct"
       }
       // ... other rules
     ],
