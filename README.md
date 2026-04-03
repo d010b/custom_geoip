@@ -120,7 +120,12 @@ url:
     - "yandex"
     - "tor"
     - "whitelist"
-  ```
+    - "max"
+    - "avito"
+    - "wb"
+    - "ozon"
+    - "sber"
+ ```
   ```json
 {
   "routing": {
