@@ -1,4 +1,5 @@
 Custom GeoIP Blacklist for Xray
+Lean GeoIP and Geosite datasets are now available for download — stripped of all unnecessary content, offering a minimal, purpose-built alternative for users who value precision
 This repository provides a specialized custom_geoip.dat file designed to enhance server security and prevent automated scanning. It focuses on blocking malicious traffic, specifically targeting IP addresses associated with active attacks and probes.
 Purpose
 The primary goal of this project is to provide a reliable blacklist for Xray-core users. By routing traffic from these IPs to a "block" outbound, you can effectively shield your server from known scanners and malicious actors.
