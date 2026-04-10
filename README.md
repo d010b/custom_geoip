@@ -1,3 +1,4 @@
+"We’ve added new categories to help: 'whitelist' , 'max'  and platform-specific tags for 'avito', 'wb', 'ozon', and 'sber' — making it easier to filter and manage entries by key sources."
 Custom GeoIP Blacklist for Xray
 Lean GeoIP and Geosite datasets are now available for download — stripped of all unnecessary content, offering a minimal, purpose-built alternative for users who value precision
 This repository provides a specialized custom_geoip.dat file designed to enhance server security and prevent automated scanning. It focuses on blocking malicious traffic, specifically targeting IP addresses associated with active attacks and probes.
