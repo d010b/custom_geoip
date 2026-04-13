@@ -44,7 +44,16 @@ When used together, these rules ensure bidirectional blocking for all IP address
 Direct Download
 You can use the following link to automate updates or manual downloads:
 https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
-
+```json
+  categories:
+    - "firehol"
+    - "whitelist"
+    - "max"
+    - "avito"
+    - "wb"
+    - "ozon"
+    - "sber"
+ ```
 
 Using full files, which often weigh tens of megabytes, overloads the RAM at startup. The geoip.dat and geosite.dat files, free of unnecessary content…
 
