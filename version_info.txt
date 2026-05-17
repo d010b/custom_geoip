@@ -1,9 +1,9 @@
 # GeoIP Databases Information
-Last Update: 2026-05-17 01:02:37
+Last Update: 2026-05-18 01:02:36
 Server: auto
 User: bot3
 
 ## Files:
-- geoip.dat: 1.7M (MD5: 175f98dea071b2ee029441507bb01608)
-- geosite.dat: 34M (MD5: d9b4cec40cb77da758f7ecfb62a3cacd)
-- custom_geoip.dat: 52K (MD5: 24e0a97afd9c6916667e484f141ae5d2)
+- geoip.dat: 1.7M (MD5: d48b82308b1e5ef50af04209ded0cae1)
+- geosite.dat: 34M (MD5: 1d8bc72432a3e54665dd7ad84895c9f6)
+- custom_geoip.dat: 52K (MD5: 3ddbf4402848fcbf41a3378ccd7c1d7f)
