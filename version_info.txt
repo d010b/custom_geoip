@@ -1,10 +1,10 @@
 # GeoIP Databases Information
-Last Update: 2026-06-08 01:02:44
+Last Update: 2026-06-09 01:20:28
 Server: auto
 User: bot3
 
 ## Files:
-- geoip.dat: 1.7M (MD5: 306a6ce12bd629598b6cad25908f8863)
-- geosite.dat: 35M (MD5: 1b3893d136271b1a1424134bcfe7cf63)
-- russian_attackers_final.txt: 4.0K (MD5: b5a8a8b87c78256bbe40092a46f66e95)
-- custom_geoip.dat: 56K (MD5: cdb19d02bae9eee5a4ae240c16682836)
+- geoip.dat: 1.7M (MD5: 5ef762be596310ff39e59511043d4996)
+- geosite.dat: 35M (MD5: f19bfe0cb1a6af744d4013b73a8b1ff3)
+- russian_attackers_final.txt: 4.0K (MD5: 649e80ac7df7cf0f22f8e677a2515fb8)
+- custom_geoip.dat: 56K (MD5: 86b269b19322f07bf7138601aa05ec49)
