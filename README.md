@@ -140,7 +140,6 @@ url:
     - "ozon"
     - "sber"
     - "ruhack"
-    - "sber"
     - "geo-detect"
  ```
   ```json
