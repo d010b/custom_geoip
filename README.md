@@ -94,6 +94,7 @@ url:
     - "microsoft"
     - "category-speedtest"
     - "category-bank-ru"
+    - "category-gov-ru"
     - "category-anticensorship"
     - "noip"
     - "pinterest"
@@ -108,6 +109,7 @@ url:
     - "instagram"
     - "category-travel-ru"
     - "category-ecommerce-ru"
+    - "category-ip-geo-detect"
 ```
   geoip:
 
@@ -118,6 +120,7 @@ url:
     - "cloudflare"
     - "cloudfront"
     - "firehol"
+    - "ddos-guard"
     - "facebook"
     - "google"
     - "netflix"
