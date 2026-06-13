@@ -139,6 +139,9 @@ url:
     - "wb"
     - "ozon"
     - "sber"
+    - "ruhack"
+    - "sber"
+    - "geo-detect"
  ```
   ```json
 {
