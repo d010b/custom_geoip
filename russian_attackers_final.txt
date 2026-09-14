@@ -1,44 +1,43 @@
+2.60.117.254     # RU  AS12389   PJSC Rostelecom
 2.63.211.145     # RU  AS12389   PJSC Rostelecom
 5.3.93.82        # RU  AS206661  JSC "ER-Telecom Holding"
+5.3.154.197      # RU  AS41668   JSC "ER-Telecom Holding"
 5.17.3.32        # RU  AS41733   JSC "ER-Telecom Holding"
 5.23.100.13      # RU  AS8636    MAXnet Systems Ltd.
 5.44.168.37      # RU  AS34757   Sibirskie Seti Ltd.
 5.44.168.134     # RU  AS34757   Sibirskie Seti Ltd.
+5.44.169.117     # RU  AS34757   Sibirskie Seti Ltd.
 5.44.170.36      # RU  AS41794   Sibirskie Seti Ltd.
-5.44.170.92      # RU  AS41794   Sibirskie Seti Ltd.
 5.44.173.62      # RU  AS40995   Sibirskie Seti Ltd.
 5.59.98.28       # RU  AS31566   SkyNetwork Ltd.
 5.79.213.156     # RU  AS8369    Intersvyaz-2 JSC
-5.100.120.147    # RU  AS42038   Krivets Sergey Sergeevich
-5.101.64.6       # RU  AS34665   Petersburg Internet Network ltd.
-5.101.78.146     # RU  AS48096   Enterprise Cloud Ltd.
+5.101.11.47      # RU  AS56340   Grand Ltd
 5.102.155.175    # RU  AS28890   INSYS ISP
 5.128.98.108     # RU  AS31200   Novotelecom Ltd
 5.128.121.101    # RU  AS31200   Novotelecom Ltd
 5.128.189.156    # RU  AS31200   Novotelecom Ltd
 5.129.129.139    # RU  AS31200   Novotelecom Ltd
 5.129.154.251    # RU  AS31200   Novotelecom Ltd
+5.129.177.62     # RU  AS60119   Ediniy Operator Svyazi LLC
 5.129.178.196    # RU  AS60119   Ediniy Operator Svyazi LLC
-5.129.189.50     # RU  AS60119   Ediniy Operator Svyazi LLC
 5.130.19.23      # RU  AS31200   Novotelecom Ltd
+5.130.241.19     # RU  AS31200   Novotelecom Ltd
 5.131.31.110     # RU  AS31200   Novotelecom Ltd
 5.140.212.144    # RU  AS12389   PJSC Rostelecom
 5.140.212.184    # RU  AS12389   PJSC Rostelecom
 5.143.232.82     # RU  AS12389   PJSC Rostelecom
 5.164.47.11      # RU  AS41843   JSC "ER-Telecom Holding"
-5.165.210.35     # RU  AS56981   JSC "ER-Telecom Holding"
+5.165.59.70      # RU  AS34533   JSC "ER-Telecom Holding"
 5.165.230.253    # RU  AS51604   JSC "ER-Telecom Holding"
 5.166.12.35      # RU  AS51819   JSC "ER-Telecom Holding"
+5.166.53.197     # RU  AS51604   JSC "ER-Telecom Holding"
 5.166.75.33      # RU  AS50512   JSC "ER-Telecom Holding"
 5.166.79.55      # RU  AS50512   JSC "ER-Telecom Holding"
-5.166.120.111    # RU  AS50512   JSC "ER-Telecom Holding"
-5.167.65.75      # RU  AS57026   JSC "ER-Telecom Holding"
 5.167.211.119    # RU  AS51570   JSC "ER-Telecom Holding"
 5.167.212.69     # RU  AS51570   JSC "ER-Telecom Holding"
 5.172.8.83       # RU  AS28890   INSYS ISP
-5.172.16.42      # RU  AS28890   INSYS ISP
-5.181.211.74     # RU  AS59637   RamSvyazInvest LLC
-5.181.211.200    # RU  AS59637   RamSvyazInvest LLC
+5.180.139.240    # RU  AS210702  Telecomv4 LLC
+5.181.211.197    # RU  AS59637   RamSvyazInvest LLC
 5.189.19.67      # RU  AS12668   LLC KomTehCentr
 5.189.23.23      # RU  AS12668   LLC KomTehCentr
 5.189.238.149    # RU  AS49505   JSC Selectel
@@ -46,19 +45,17 @@
 5.228.155.162    # RU  AS42610   PJSC Rostelecom
 5.228.242.20     # RU  AS42610   PJSC Rostelecom
 5.253.102.54     # RU  AS209393  OOO Dontel
-5.253.102.207    # RU  AS209393  OOO Dontel
 5.253.102.234    # RU  AS209393  OOO Dontel
 5.253.103.184    # RU  AS209393  OOO Dontel
 5.253.103.221    # RU  AS209393  OOO Dontel
 31.13.19.104     # RU  AS25227   JSC Avantel
 31.25.29.163     # RU  AS35815   LLC Cifrovie Seti Urala
 31.28.3.8        # RU  AS28762   Citytelecom LLC
-31.40.158.14     # UA  AS25437   Osipenko Alexander Nikolaevich
 31.43.215.151    # RU  AS56487   Sotrudnik LTD
+31.43.215.155    # RU  AS56487   Sotrudnik LTD
 31.44.83.123     # RU  AS29226   JSC Mastertel
-31.44.184.40     # RU  AS197868  LLC Service Telecom
 31.44.184.41     # RU  AS197868  LLC Service Telecom
-31.128.37.67     # RU  AS198610  Beget LLC
+31.129.222.51    # RU  AS47286   OTS Ltd.
 31.130.35.29     # RU  AS49583   Kom lan Ltd
 31.132.164.44    # RU  AS57044   JSC "ER-Telecom Holding"
 31.132.232.163   # RU  AS51645   JSC "ER-Telecom Holding"
@@ -70,7 +67,6 @@
 31.173.2.182     # RU  AS25159   PJSC MegaFon
 31.173.4.22      # RU  AS25159   PJSC MegaFon
 31.173.6.166     # RU  AS25159   PJSC MegaFon
-31.173.7.121     # RU  AS25159   PJSC MegaFon
 31.173.8.170     # RU  AS25159   PJSC MegaFon
 31.173.12.27     # RU  AS25159   PJSC MegaFon
 31.173.12.29     # RU  AS25159   PJSC MegaFon
@@ -88,7 +84,7 @@
 31.173.67.141    # RU  AS25159   PJSC MegaFon
 31.173.67.146    # RU  AS25159   PJSC MegaFon
 31.173.69.14     # RU  AS25159   PJSC MegaFon
-31.173.88.119    # RU  AS25159   PJSC MegaFon
+31.173.70.207    # RU  AS25159   PJSC MegaFon
 31.173.114.194   # RU  AS29648   PJSC MegaFon
 31.173.161.184   # RU  AS31133   PJSC MegaFon
 31.173.170.143   # RU  AS31133   PJSC MegaFon
@@ -105,7 +101,7 @@
 37.28.181.6      # RU  AS25159   PJSC MegaFon
 37.29.83.180     # RU  AS50928   PJSC MegaFon
 37.72.140.44     # RU  -         -
-37.77.109.44     # RU  AS47586   Business Svyaz
+37.77.109.42     # RU  AS47586   Business Svyaz
 37.77.150.0      # RU  -         -
 37.77.150.26     # RU  -         -
 37.77.150.33     # RU  -         -
@@ -119,20 +115,20 @@
 37.77.150.108    # RU  -         -
 37.77.150.112    # RU  -         -
 37.77.150.124    # RU  -         -
-37.77.150.208    # RU  -         -
 37.77.150.241    # RU  -         -
-37.79.220.94     # RU  AS12389   PJSC Rostelecom
 37.79.223.170    # RU  AS12389   PJSC Rostelecom
 37.79.232.82     # RU  AS12389   PJSC Rostelecom
 37.79.241.25     # RU  AS12389   PJSC Rostelecom
 37.79.241.252    # RU  AS12389   PJSC Rostelecom
 37.79.254.32     # RU  AS12389   PJSC Rostelecom
 37.98.253.231    # RU  AS12668   LLC KomTehCentr
+37.110.113.113   # RU  AS42610   PJSC Rostelecom
 37.110.142.162   # RU  AS42610   PJSC Rostelecom
+37.112.14.87     # RU  AS12768   JSC "ER-Telecom Holding"
 37.112.26.249    # RU  AS41754   JSC "ER-Telecom Holding"
 37.112.63.139    # RU  AS57044   JSC "ER-Telecom Holding"
-37.112.159.224   # RU  AS51035   JSC "ER-Telecom Holding"
 37.113.113.77    # RU  AS57026   JSC "ER-Telecom Holding"
+37.113.129.120   # RU  AS41661   JSC "ER-Telecom Holding"
 37.113.237.171   # RU  AS51645   JSC "ER-Telecom Holding"
 37.131.219.159   # RU  AS48524   INTERRA telecommunications group, Ltd.
 37.139.53.80     # RU  AS34665   Petersburg Internet Network ltd.
@@ -140,17 +136,18 @@
 37.139.53.148    # RU  AS34665   Petersburg Internet Network ltd.
 37.139.53.179    # RU  AS34665   Petersburg Internet Network ltd.
 37.139.249.103   # RU  AS8359    MTS PJSC
+37.140.197.71    # RU  AS197695  Domain names registrar REG.RU, Ltd
 37.192.211.74    # RU  AS31200   Novotelecom Ltd
 37.193.56.149    # RU  AS31200   Novotelecom Ltd
+37.193.194.218   # RU  AS31200   Novotelecom Ltd
 37.204.22.234    # RU  AS42610   PJSC Rostelecom
 37.204.209.136   # RU  AS42610   PJSC Rostelecom
-37.230.158.103   # RU  AS206385  OOO "SPETSTELECOM-YUG"
 37.230.247.230   # GE  AS42938   LLC Gudauta-net
 37.230.247.245   # GE  AS42938   LLC Gudauta-net
 37.232.207.65    # RU  AS12714   PJSC MegaFon
 37.235.128.14    # RU  AS41268   Sesameware FZ-LLC
 38.60.221.14     # RU  AS138915  Kaopu Cloud HK Limited
-45.9.215.184     # RU  AS35815   LLC Cifrovie Seti Urala
+45.85.65.74      # RU  AS48995   IE Gilaskhanov Said Visirpashaevich
 45.91.64.6       # RU  AS214664  JSC Buduschee
 45.91.64.7       # RU  AS214664  JSC Buduschee
 45.91.64.8       # RU  AS214664  JSC Buduschee
@@ -158,27 +155,27 @@
 45.147.202.53    # RU  AS201211  LLC "Drugoy Telecom"
 45.148.243.104   # RU  AS56529   RuaD-Group LLC
 46.0.54.247      # RU  AS34533   JSC "ER-Telecom Holding"
-46.0.104.104     # RU  AS34533   JSC "ER-Telecom Holding"
 46.8.46.114      # RU  AS43330   Individual Entrepreneur Dmitriy Fokin
 46.8.60.97       # RU  AS56701   LLC "AVANTA TELECOM"
 46.8.140.22      # RU  AS211399  KPD group OOO
+46.8.140.26      # RU  AS211399  KPD group OOO
 46.8.145.195     # RU  AS204735  Bobr-Telecom LLC
+46.8.200.79      # RU  AS57494   Adman LLC
 46.8.219.10      # RU  AS212487  Gorodskie seti OOO
-46.8.245.100     # RU  AS203695  Saypudinov Ayatula
 46.8.246.27      # RU  AS203695  Saypudinov Ayatula
 46.16.34.21      # RU  AS42007   Perviy TSOD LLC
-46.16.228.182    # RU  AS44391   JSC Elektrosvyaz
 46.17.251.219    # RU  AS43149   Rocket Telecom Center LLC
 46.20.71.68      # RU  AS15774   Limited Liability Company "TTK-Svyaz"
 46.29.12.68      # RU  AS197204  TeleMaks Ltd
 46.30.158.50     # RU  AS49469   LLC MELT-INTERNET
 46.32.86.146     # RU  AS48416   Information Network, LLC
 46.36.23.17      # RU  AS48642   Joint stock company For
+46.39.38.5       # RU  AS15582   JSC Comcor
 46.39.244.106    # RU  AS29124   Iskratelecom JSC
 46.44.0.185      # RU  AS51369   LLC "TRC FIORD"
 46.44.6.110      # RU  AS51369   LLC "TRC FIORD"
 46.44.36.143     # RU  AS51369   LLC "TRC FIORD"
-46.47.240.138    # RU  AS20632   PJSC MegaFon
+46.48.121.158    # RU  AS12668   LLC KomTehCentr
 46.50.240.92     # RU  AS21127   Joint Stock Company TransTeleCom
 46.52.167.53     # RU  AS12772   Enforta Autonomous System
 46.52.232.89     # RU  AS12389   PJSC Rostelecom
@@ -189,12 +186,11 @@
 46.146.234.12    # RU  AS12768   JSC "ER-Telecom Holding"
 46.146.238.1     # RU  AS12768   JSC "ER-Telecom Holding"
 46.147.113.91    # RU  AS57378   JSC "ER-Telecom Holding"
-46.147.228.223   # RU  AS42116   JSC "ER-Telecom Holding"
+46.148.245.118   # RU  AS8359    MTS PJSC
 46.149.236.141   # RU  AS52175   Magellan Telecom Kuzbass Ltd.
+46.151.242.210   # RU  AS52043   LLC "Multiservice"
 46.160.165.239   # RU  AS41560   UGMK-Telecom LLC
-46.163.174.216   # RU  AS28890   INSYS ISP
 46.163.189.191   # RU  AS28890   INSYS ISP
-46.173.34.194    # RU  AS49120   Gorset Ltd.
 46.183.135.88    # RU  AS8749    JSC "Redcom-lnternet"
 46.187.38.215    # RU  AS12714   PJSC MegaFon
 46.187.125.6     # RU  AS12714   PJSC MegaFon
@@ -204,28 +200,29 @@
 46.188.119.26    # RU  AS8334    LLC SETEL
 46.191.157.187   # RU  AS60095   JSC "Ufanet"
 46.191.197.143   # RU  AS24955   JSC "Ufanet"
-46.229.72.70     # RU  AS8711    JSC Avantel
-46.236.160.179   # RU  AS57044   JSC "ER-Telecom Holding"
+46.236.177.239   # RU  AS57044   JSC "ER-Telecom Holding"
 46.254.27.8      # RU  AS38972   Suhoy Log Intersat Ltd.
+62.16.41.154     # RU  AS15640   MTS PJSC
 62.16.103.46     # RU  AS12714   PJSC MegaFon
 62.33.199.151    # RU  AS20485   Joint Stock Company TransTeleCom
 62.64.6.50       # RU  AS25159   PJSC MegaFon
 62.76.64.90      # RU  AS51054   OOO "TransKom"
 62.76.73.53      # RU  AS207397  EFIR LLC
+62.84.104.234    # RU  AS44927   LLC Telecom MPK
 62.113.60.43     # RU  AS198770  Virtual infrastructures Ltd.
 62.113.113.162   # RU  AS48282   Hosting technology LTD
 62.122.178.96    # RU  AS49120   Gorset Ltd.
 62.122.195.14    # RU  AS49106   Opticom Group AO
-62.140.249.34    # RU  AS28917   Fiord Networks, UAB
+62.133.52.137    # RU  AS201211  LLC "Drugoy Telecom"
+62.148.137.18    # RU  AS15468   PJSC Rostelecom
+62.176.26.100    # RU  AS34456   Rial Com JSC
 62.182.132.94    # RU  AS20632   PJSC MegaFon
-62.182.143.197   # RU  AS8359    MTS PJSC
 62.183.54.253    # RU  AS25490   PJSC Rostelecom
 62.183.82.70     # RU  AS43132   PJSC Rostelecom
 62.183.96.248    # RU  AS25490   PJSC Rostelecom
 62.192.226.83    # RU  AS12389   PJSC Rostelecom
 62.217.186.22    # RU  AS41275   Lovitel LLC
 62.231.20.54     # RU  AS3216    PJSC "Vimpelcom"
-77.40.51.90      # RU  AS12389   PJSC Rostelecom
 77.40.53.84      # RU  AS12389   PJSC Rostelecom
 77.40.61.52      # RU  AS12389   PJSC Rostelecom
 77.41.156.64     # RU  AS3216    PJSC "Vimpelcom"
@@ -234,39 +231,43 @@
 77.74.177.114    # RU  AS200107  Kaspersky Lab Switzerland GmbH
 77.74.177.118    # RU  AS200107  Kaspersky Lab Switzerland GmbH
 77.82.177.76     # RU  AS12389   PJSC Rostelecom
-77.91.118.18     # DE  AS62240   Clouvider
-77.91.118.50     # DE  AS62240   Clouvider
 77.94.99.50      # RU  AS28812   PJSC "Bashinformsvyaz"
+77.95.9.14       # RU  AS43020   OPTIC-TELECOM LTD
 77.95.9.20       # RU  AS43020   OPTIC-TELECOM LTD
-77.106.78.215    # RU  AS50512   JSC "ER-Telecom Holding"
 77.108.78.6      # RU  AS8732    JSC Comcor
+77.120.56.249    # RU  AS200702  Kazakov Viktor Aleksandrovich
 77.220.33.230    # RU  AS30881   MTS PJSC
 77.222.52.72     # RU  AS44112   SpaceWeb Ltd
+77.222.98.29     # RU  AS8369    Intersvyaz-2 JSC
 77.244.64.60     # RU  AS8636    MAXnet Systems Ltd.
 78.25.125.137    # RU  AS31133   PJSC MegaFon
 78.25.127.206    # RU  AS31195   PJSC MegaFon
 78.31.4.194      # RU  AS43728   TELESET+ Ltd
+78.31.5.36       # RU  AS43728   TELESET+ Ltd
 78.36.4.139      # RU  AS12389   PJSC Rostelecom
 78.36.6.173      # RU  AS12389   PJSC Rostelecom
 78.36.7.89       # RU  AS12389   PJSC Rostelecom
 78.36.197.226    # RU  AS12389   PJSC Rostelecom
 78.36.202.91     # RU  AS12389   PJSC Rostelecom
 78.37.9.103      # RU  AS12389   PJSC Rostelecom
-78.40.118.11     # RU  AS215279  OOO Bazis
+78.37.137.17     # RU  AS12389   PJSC Rostelecom
 78.81.143.227    # RU  AS12389   PJSC Rostelecom
 78.85.30.201     # RU  AS12389   PJSC Rostelecom
 78.107.31.154    # RU  AS8402    PJSC "Vimpelcom"
 78.109.129.119   # RU  AS50512   JSC "ER-Telecom Holding"
+78.111.249.76    # RU  AS12389   PJSC Rostelecom
+78.138.161.170   # RU  AS28840   PJSC "TATTELECOM"
 78.138.168.46    # RU  AS28840   PJSC "TATTELECOM"
 78.139.193.134   # RU  AS50512   JSC "ER-Telecom Holding"
 78.140.60.200    # RU  AS31357   Limited Company Information and Consulting Agency
+78.155.212.3     # RU  AS199860  Xelent
 78.155.213.21    # RU  AS199860  Xelent
 79.98.137.168    # RU  AS30833   Technology & Networks LLC
 79.104.47.162    # RU  AS3216    PJSC "Vimpelcom"
 79.111.33.184    # RU  AS12714   PJSC MegaFon
 79.120.30.97     # RU  AS12714   PJSC MegaFon
 79.120.72.180    # RU  AS12714   PJSC MegaFon
-79.126.120.221   # RU  AS12389   PJSC Rostelecom
+79.133.118.213   # RU  AS59793   Corporate Internet Service Provider LLC
 79.135.251.82    # RU  AS12389   PJSC Rostelecom
 79.136.137.117   # RU  AS50512   JSC "ER-Telecom Holding"
 79.136.195.101   # RU  AS50543   JSC "ER-Telecom Holding"
@@ -275,33 +276,30 @@
 79.170.28.240    # RU  AS43761   SvyazService Ltd
 79.173.82.70     # RU  AS43966   OOO "IT-Region"
 80.66.66.31      # FI  -         -
-80.66.66.38      # FI  -         -
+80.66.66.68      # FI  -         -
 80.66.83.43      # FI  AS216473  Bashinskii Vadim Ruslanovich
 80.66.83.73      # FI  AS216473  Bashinskii Vadim Ruslanovich
 80.66.83.80      # FI  AS216473  Bashinskii Vadim Ruslanovich
+80.67.57.132     # RU  AS31695   Limited Company "Intermedia"
 80.68.4.83       # RU  AS21479   PJSC Rostelecom
 80.68.76.181     # RU  AS12714   PJSC MegaFon
 80.69.185.150    # RU  AS25549   JSC Avantel
 80.70.96.138     # RU  AS34351   MTS PJSC
-80.70.96.139     # RU  AS34351   MTS PJSC
 80.72.25.153     # RU  AS60246   Consumer Internet Cooperative PG-19
 80.73.192.186    # RU  AS31376   Smart Telecom Limited
 80.79.65.194     # RU  AS8492    "OBIT" Ltd.
-80.87.111.127    # RU  AS44128   Internet-Pro LLC
 80.87.206.129    # FR  AS16276   OVH SAS
 80.87.206.148    # FR  AS16276   OVH SAS
 80.87.206.229    # FR  AS16276   OVH SAS
 80.95.38.14      # RU  AS12389   PJSC Rostelecom
 80.234.36.218    # RU  AS12389   PJSC Rostelecom
-80.246.70.3      # RU  AS12389   PJSC Rostelecom
 80.248.153.194   # RU  AS12380   PJSC Rostelecom
 80.249.185.246   # RU  AS31376   Smart Telecom Limited
-80.249.207.224   # RU  AS47586   Business Svyaz
 80.249.207.246   # RU  AS47586   Business Svyaz
-80.253.31.232    # RU  AS39153   LLC SETEL
 80.253.235.153   # RU  AS44206   Sibirskie Seti Ltd.
 80.254.97.166    # RU  AS21479   PJSC Rostelecom
 80.254.124.216   # RU  AS21479   PJSC Rostelecom
+81.9.31.226      # RU  AS3216    PJSC "Vimpelcom"
 81.9.102.85      # RU  AS3216    PJSC "Vimpelcom"
 81.22.51.64      # RU  AS39264   "Region Svyaz Konsalt" LLC
 81.22.51.129     # RU  AS39264   "Region Svyaz Konsalt" LLC
@@ -312,60 +310,58 @@
 81.24.135.206    # RU  AS20632   PJSC MegaFon
 81.26.130.54     # RU  AS20895   "Yuzhniy TELECOM" ltd.
 81.29.132.69     # RU  AS12555   Data-center IMAQLIQ Ltd.
+81.90.211.38     # RU  AS39775   Limited Liability Company HyperNet
 81.163.23.111    # RU  AS50340   JSC Selectel
 81.177.33.120    # RU  AS8342    JSC RTComm.RU
+81.195.152.14    # RU  AS8359    MTS PJSC
 81.200.24.99     # RU  AS29124   Iskratelecom JSC
-81.200.247.11    # RU  AS41148   Zolotaya Linia JSC.
 81.200.252.72    # RU  AS41148   Zolotaya Linia JSC.
 81.211.49.215    # RU  AS3216    PJSC "Vimpelcom"
 81.211.72.167    # RU  AS3216    PJSC "Vimpelcom"
 81.222.202.149   # RU  AS3216    PJSC "Vimpelcom"
 81.222.232.205   # RU  AS20597   PJSC "Vimpelcom"
 82.144.74.138    # RU  AS25355   "Intelecom" LLC
-82.147.84.244    # RU  AS211860  Nerushenko Vyacheslav Nikolaevich
+82.146.46.193    # RU  AS29182   JSC IOT
 82.147.85.21     # RU  AS211860  Nerushenko Vyacheslav Nikolaevich
 82.147.85.62     # RU  AS211860  Nerushenko Vyacheslav Nikolaevich
 82.151.126.115   # RU  AS29456   PJSC Rostelecom
-82.151.198.45    # RU  AS28890   INSYS ISP
-82.151.209.10    # RU  AS28890   INSYS ISP
 82.162.56.186    # RU  AS12389   PJSC Rostelecom
 82.200.40.38     # RU  AS21127   Joint Stock Company TransTeleCom
 82.208.65.46     # RU  AS12389   PJSC Rostelecom
 82.208.114.218   # RU  AS12389   PJSC Rostelecom
 82.208.115.172   # RU  AS12389   PJSC Rostelecom
 83.69.219.106    # RU  AS29226   JSC Mastertel
-83.146.65.38     # RU  AS28745   Joint Stock Company TransTeleCom
 83.149.7.138     # RU  AS31213   PJSC MegaFon
 83.149.29.222    # RU  AS31163   PJSC MegaFon
 83.167.19.121    # RU  AS28890   INSYS ISP
 83.169.241.21    # RU  AS31163   PJSC MegaFon
-83.171.89.209    # RU  AS12389   PJSC Rostelecom
 83.171.96.57     # RU  AS12389   PJSC Rostelecom
-83.171.122.241   # RU  AS12389   PJSC Rostelecom
 83.172.35.6      # RU  AS33892   LLC "Severskelectrosvyaz"
-83.174.218.219   # RU  AS28812   PJSC "Bashinformsvyaz"
+83.172.42.32     # RU  AS44417   JSC Neotelecom
 83.217.213.120   # RU  AS48282   Hosting technology LTD
 83.220.245.109   # RU  AS16345   PJSC "Vimpelcom"
 83.222.81.173    # RU  AS16285   Joint Stock Company TransTeleCom
 83.234.207.23    # RU  AS20485   Joint Stock Company TransTeleCom
-83.237.72.18     # RU  AS8359    MTS PJSC
-83.237.72.102    # RU  AS8359    MTS PJSC
 83.239.53.250    # RU  AS25490   PJSC Rostelecom
 83.239.62.122    # RU  AS25490   PJSC Rostelecom
 83.239.84.130    # RU  AS25490   PJSC Rostelecom
 83.239.108.218   # RU  AS25490   PJSC Rostelecom
 83.239.158.174   # RU  AS33934   OJSC Volgogradelectrosviaz
 83.242.247.50    # RU  AS41209   COMSTAR VOLGA
+83.246.166.18    # RU  AS31364   Joint Stock Company TransTeleCom
 83.246.166.49    # RU  AS31364   Joint Stock Company TransTeleCom
 83.246.243.19    # RU  AS31364   Joint Stock Company TransTeleCom
 84.17.252.53     # RU  AS62461   SUE OO "Road Service"
 84.22.154.122    # RU  AS33991   Igra-Service LLC
-84.22.217.245    # RU  AS51570   JSC "ER-Telecom Holding"
 84.42.46.192     # RU  AS34267   PJSC Rostelecom
 84.42.46.199     # RU  AS34267   PJSC Rostelecom
 84.42.46.238     # RU  AS34267   PJSC Rostelecom
+84.52.77.91      # RU  AS41733   JSC "ER-Telecom Holding"
 84.54.44.204     # RU  AS48282   Hosting technology LTD
 84.201.243.44    # RU  AS34590   JSC "ER-Telecom Holding"
+84.242.241.218   # RU  AS16301   Novgorod Datacom LLC
+84.244.58.35     # RU  AS8345    JSC "ER-Telecom Holding"
+84.252.100.119   # RU  AS213220  Delta Ltd
 85.12.200.52     # RU  AS28890   INSYS ISP
 85.12.237.201    # RU  AS28890   INSYS ISP
 85.12.239.2      # RU  AS28890   INSYS ISP
@@ -377,59 +373,63 @@
 85.30.212.24     # RU  AS42610   PJSC Rostelecom
 85.30.248.213    # RU  AS42610   PJSC Rostelecom
 85.93.45.33      # RU  AS12389   PJSC Rostelecom
-85.95.149.249    # RU  AS34470   PortTelekom LLC
 85.95.166.40     # RU  AS12389   PJSC Rostelecom
 85.113.49.119    # RU  AS34533   JSC "ER-Telecom Holding"
-85.115.189.68    # RU  AS51604   JSC "ER-Telecom Holding"
+85.114.9.190     # RU  AS8492    "OBIT" Ltd.
 85.116.125.191   # RU  AS12389   PJSC Rostelecom
-85.143.219.239   # RU  AS201848  Trader soft LLC
-85.172.11.126    # RU  AS25490   PJSC Rostelecom
+85.117.232.42    # RU  AS56877   Sfera, JSC
+85.140.43.114    # RU  AS8359    MTS PJSC
 85.172.116.233   # RU  AS12389   PJSC Rostelecom
 85.172.170.162   # RU  AS33934   OJSC Volgogradelectrosviaz
+85.174.84.162    # RU  AS33934   OJSC Volgogradelectrosviaz
 85.175.60.34     # RU  AS12389   PJSC Rostelecom
+85.175.72.188    # RU  AS25490   PJSC Rostelecom
 85.175.100.132   # RU  AS25490   PJSC Rostelecom
 85.175.170.253   # RU  AS25490   PJSC Rostelecom
-85.192.59.250    # RU  AS47711   Line Group Ltd.
 85.192.184.145   # RU  AS12389   PJSC Rostelecom
 85.234.8.116     # RU  AS34892   PJSC Rostelecom
 85.235.33.142    # RU  AS8359    MTS PJSC
 86.62.112.66     # RU  AS31363   JSC "ER-Telecom Holding"
 86.102.125.194   # RU  AS12332   PJSC Rostelecom
-87.76.15.97      # RU  AS50716   Telecom.ru Ltd
 87.103.196.161   # RU  AS12389   PJSC Rostelecom
+87.225.108.138   # RU  AS12389   PJSC Rostelecom
 87.229.254.207   # RU  AS3216    PJSC "Vimpelcom"
+87.248.230.58    # RU  AS35807   SkyNet Ltd.
+87.249.61.176    # RU  AS211291  Tulun-TeleCom Ltd
 87.249.61.207    # RU  AS211291  Tulun-TeleCom Ltd
+87.251.70.233    # RU  AS207883  LLC KPD-TELECOM
 88.84.209.146    # RU  AS21453   Flex Ltd.
-88.87.85.199     # RU  AS39435   JSC "ER-Telecom Holding"
-88.147.152.191   # RU  AS12389   PJSC Rostelecom
 88.147.153.146   # RU  AS12389   PJSC Rostelecom
+88.147.173.11    # RU  AS12389   PJSC Rostelecom
 88.151.90.168    # RU  AS39578   Ltd "Maxima"
 88.201.141.253   # RU  AS35807   SkyNet Ltd.
 88.201.241.104   # RU  AS35807   SkyNet Ltd.
 88.204.104.42    # RU  AS33892   LLC "Severskelectrosvyaz"
 88.210.32.15     # RU  AS34139   JSC DIVO
+88.210.49.32     # RU  AS205784  NV Telecom LLC
 89.19.179.10     # RU  AS15582   JSC Comcor
 89.19.193.252    # RU  AS41465   Limited Liability Company VolgoGazTelecom
 89.22.52.74      # RU  AS59693   Intronex Setevye Resheniya Ltd.
 89.22.134.64     # RU  AS49893   Bitrace telecom Ltd.
 89.22.177.40     # RU  AS33991   Igra-Service LLC
-89.23.104.30     # RU  AS61223   LINKFOR LLC
 89.23.123.66     # DE  AS215590  DpkgSoft International Limited
 89.106.171.205   # RU  AS29226   JSC Mastertel
 89.109.4.236     # RU  AS12389   PJSC Rostelecom
 89.109.5.250     # RU  AS12389   PJSC Rostelecom
 89.109.47.193    # RU  AS12389   PJSC Rostelecom
+89.109.49.103    # RU  AS12389   PJSC Rostelecom
 89.109.233.181   # RU  AS25515   PJSC Rostelecom
 89.109.233.217   # RU  AS25515   PJSC Rostelecom
 89.110.15.24     # RU  AS12389   PJSC Rostelecom
 89.169.4.21      # RU  AS50053   VDSka hosting
 89.175.14.98     # RU  AS8359    MTS PJSC
 89.175.252.170   # RU  AS8359    MTS PJSC
+89.185.91.240    # RU  AS39735   "Permtelecom" Ltd
 89.189.152.23    # RU  AS24955   JSC "Ufanet"
 89.207.71.84     # RU  AS31724   Svyazist LLC
+89.208.118.252   # RU  AS12695   LLC Digital Network
 89.208.212.111   # RU  AS12695   LLC Digital Network
 89.221.62.68     # RU  AS43045   Svyaz-Holding Ltd.
-89.222.131.115   # RU  AS34123   Netorn LLC
 89.222.205.150   # RU  AS34123   Netorn LLC
 89.250.170.170   # RU  AS12389   PJSC Rostelecom
 89.250.175.107   # RU  AS12389   PJSC Rostelecom
@@ -439,6 +439,7 @@
 90.151.171.109   # RU  AS12389   PJSC Rostelecom
 90.188.230.132   # RU  AS12389   PJSC Rostelecom
 90.188.241.209   # RU  AS12389   PJSC Rostelecom
+90.189.174.108   # RU  AS12389   PJSC Rostelecom
 90.189.174.191   # RU  AS12389   PJSC Rostelecom
 91.105.232.142   # RU  AS12722   RECONN LLC
 91.109.225.205   # RU  AS58310   "TELEPORT" LLC
@@ -458,23 +459,29 @@
 91.191.230.210   # RU  AS12668   LLC KomTehCentr
 91.192.169.141   # RU  AS42498   Gerkon LTD
 91.195.100.156   # RU  AS34858   Telezon-Seti LLC
-91.203.237.204   # RU  AS13296   INNOR Ltd.
 91.205.236.166   # RU  AS48043   Ozyorsk Telecom CJSC.
 91.207.115.249   # RU  AS213890  NOVOROS-TELECOM LLC
 91.207.181.201   # RU  AS48275   Republican Unitary Enterprise "Abkhazsvyaz"
+91.210.228.42    # RU  AS48371   Westlan LTD
 91.211.23.39     # RU  AS48642   Joint stock company For
+91.211.57.195    # RU  AS48507   LTD SibMediaFon
+91.214.142.8     # RU  AS199820  PE Dyatlov Sergey Vladimirovich
+91.214.142.18    # RU  AS199820  PE Dyatlov Sergey Vladimirovich
 91.214.142.55    # RU  AS199820  PE Dyatlov Sergey Vladimirovich
-91.215.85.104    # RU  AS200593  PROSPERO OOO
+91.215.85.88     # RU  AS200593  PROSPERO OOO
 91.215.108.149   # RU  AS43270   Ryabikov Ivan
+91.218.102.30    # RU  AS59533   Lukyanov Evgeniy Vladimirovich PE
 91.218.102.41    # RU  AS59533   Lukyanov Evgeniy Vladimirovich PE
 91.219.64.211    # RU  AS51178   JSC Avantel
-91.219.138.63    # RU  AS51655   Ilim Telecom Ltd.
-91.224.136.14    # RU  AS56392   Adygei Telephone Company JSC
+91.219.138.122   # RU  AS51655   Ilim Telecom Ltd.
+91.224.136.22    # RU  AS56392   Adygei Telephone Company JSC
+91.224.137.59    # RU  AS56392   Adygei Telephone Company JSC
+91.231.189.2     # RU  AS212126  Volskiye Kabelniye Seti Ltd.
 91.231.219.137   # RU  AS57354   SYSTEMA Ltd
 91.234.62.215    # RU  AS198367  INKO-Telecom, LLC
-91.235.181.138   # RU  AS59533   Lukyanov Evgeniy Vladimirovich PE
+91.235.247.173   # RU  AS57843   GK INTERLOGICA LLC
 91.237.249.84    # RU  AS50867   HOSTKEY B.V.
-91.238.67.159    # RU  AS57803   TeleServis Ltd
+91.240.112.154   # RU  AS59533   Lukyanov Evgeniy Vladimirovich PE
 91.240.113.160   # RU  AS59533   Lukyanov Evgeniy Vladimirovich PE
 91.240.209.189   # RU  AS199020  AVANT Ltd.
 91.241.150.246   # RU  AS43400   NEO-TELEKOM Ltd
@@ -490,7 +497,6 @@
 92.100.40.12     # RU  AS12389   PJSC Rostelecom
 92.100.194.248   # RU  AS12389   PJSC Rostelecom
 92.118.72.183    # RU  AS60246   Consumer Internet Cooperative PG-19
-92.124.130.176   # RU  AS12389   PJSC Rostelecom
 92.124.133.35    # RU  AS12389   PJSC Rostelecom
 92.240.218.157   # RU  AS39735   "Permtelecom" Ltd
 92.242.15.206    # RU  AS12668   LLC KomTehCentr
@@ -505,16 +511,14 @@
 93.90.111.186    # RU  AS48642   Joint stock company For
 93.94.145.35     # RU  AS44020   Modern Solutions LTD
 93.94.178.8      # RU  AS51645   JSC "ER-Telecom Holding"
+93.100.39.116    # RU  AS35807   SkyNet Ltd.
 93.100.98.162    # RU  AS35807   SkyNet Ltd.
-93.123.252.65    # RU  AS35539   Information and Communication Technologies LLC
-93.157.249.218   # RU  AS57128   JSC "Ufanet"
 93.159.230.28    # RU  AS200107  Kaspersky Lab Switzerland GmbH
 93.159.230.84    # RU  AS200107  Kaspersky Lab Switzerland GmbH
 93.159.230.85    # RU  AS200107  Kaspersky Lab Switzerland GmbH
 93.171.178.215   # RU  AS62314   Atmospherica Ltd.
 93.171.216.186   # RU  AS51812   KTVS Ltd.
 93.177.126.187   # RU  AS209059  G COM Ltd.
-93.182.46.236    # RU  AS41802   Limited Liability Company Kvidex-Telecom
 93.183.94.195    # RU  AS48282   Hosting technology LTD
 93.191.60.155    # RU  AS8492    "OBIT" Ltd.
 94.19.129.19     # RU  AS35807   SkyNet Ltd.
@@ -526,15 +530,15 @@
 94.75.55.27      # RU  AS28812   PJSC "Bashinformsvyaz"
 94.79.13.78      # RU  AS8732    JSC Comcor
 94.103.90.150    # RU  AS48282   Hosting technology LTD
-94.137.251.37    # RU  AS41560   UGMK-Telecom LLC
 94.138.148.20    # RU  AS49530   Kompleks-S OOO
 94.139.113.83    # RU  AS25513   PJSC Moscow city telephone network
 94.140.246.52    # RU  AS47236   CityLink Ltd
+94.142.140.86    # RU  AS209641  I-SERVERS LTD
 94.142.248.2     # RU  AS205784  NV Telecom LLC
 94.159.36.186    # RU  AS49531   NetCom-R LLC
 94.159.44.234    # RU  AS49531   NetCom-R LLC
 94.159.47.150    # RU  AS49531   NetCom-R LLC
-94.159.59.30     # RU  AS49531   NetCom-R LLC
+94.180.116.54    # RU  AS43478   JSC "ER-Telecom Holding"
 94.180.139.162   # RU  AS41668   JSC "ER-Telecom Holding"
 94.180.224.210   # RU  AS41668   JSC "ER-Telecom Holding"
 94.181.46.216    # RU  AS41661   JSC "ER-Telecom Holding"
@@ -544,25 +548,30 @@
 94.190.15.13     # RU  AS48524   INTERRA telecommunications group, Ltd.
 94.190.91.113    # RU  AS48524   INTERRA telecommunications group, Ltd.
 94.190.107.249   # RU  AS48524   INTERRA telecommunications group, Ltd.
+94.198.4.163     # RU  AS48148   SVIAZATOMINFORM, Ltd. Company
 94.228.200.142   # RU  AS48293   Uniontel Ltd
-94.228.240.2     # RU  AS15672   OOO Telecom TZ
 94.230.130.177   # RU  AS48642   Joint stock company For
 94.230.135.5     # RU  AS48642   Joint stock company For
-94.233.34.146    # RU  AS33934   OJSC Volgogradelectrosviaz
+94.231.133.154   # RU  AS49136   Telecommunication networks Ltd
+94.231.133.222   # RU  AS49136   Telecommunication networks Ltd
 94.233.127.194   # RU  AS33934   OJSC Volgogradelectrosviaz
 94.233.127.218   # RU  AS33934   OJSC Volgogradelectrosviaz
 94.243.12.223    # RU  AS8359    MTS PJSC
+94.243.13.167    # RU  AS8359    MTS PJSC
 94.243.15.51     # RU  AS8359    MTS PJSC
+94.250.249.228   # RU  AS29182   JSC IOT
 94.253.68.201    # RU  AS21453   Flex Ltd.
 95.24.25.194     # RU  AS8402    PJSC "Vimpelcom"
 95.27.24.131     # RU  AS8402    PJSC "Vimpelcom"
 95.27.40.83      # RU  AS8402    PJSC "Vimpelcom"
-95.27.75.121     # RU  AS8402    PJSC "Vimpelcom"
 95.27.79.79      # RU  AS8402    PJSC "Vimpelcom"
 95.27.142.43     # RU  AS8402    PJSC "Vimpelcom"
+95.27.142.136    # RU  AS8402    PJSC "Vimpelcom"
 95.27.143.8      # RU  AS8402    PJSC "Vimpelcom"
 95.31.48.66      # RU  AS8402    PJSC "Vimpelcom"
 95.31.209.102    # RU  AS8402    PJSC "Vimpelcom"
+95.31.234.181    # RU  AS8402    PJSC "Vimpelcom"
+95.31.253.126    # RU  AS8402    PJSC "Vimpelcom"
 95.32.81.119     # RU  AS12389   PJSC Rostelecom
 95.37.107.237    # RU  AS12389   PJSC Rostelecom
 95.46.42.230     # RU  AS64423   Granat Ltd.
@@ -582,14 +591,13 @@
 95.79.57.221     # RU  AS42682   JSC "ER-Telecom Holding"
 95.79.102.121    # RU  AS42682   JSC "ER-Telecom Holding"
 95.79.108.51     # RU  AS42682   JSC "ER-Telecom Holding"
+95.79.111.73     # RU  AS42682   JSC "ER-Telecom Holding"
 95.82.210.98     # RU  AS12668   LLC KomTehCentr
 95.84.137.185    # RU  AS42610   PJSC Rostelecom
-95.84.184.175    # RU  AS42610   PJSC Rostelecom
 95.84.192.53     # RU  AS42610   PJSC Rostelecom
 95.104.173.137   # RU  AS29190   MTS PJSC
 95.105.52.153    # RU  AS24955   JSC "Ufanet"
 95.105.71.239    # RU  AS57128   JSC "Ufanet"
-95.107.104.221   # RU  AS12389   PJSC Rostelecom
 95.128.137.161   # RU  AS44572   LTD ParmaTel
 95.128.142.106   # RU  AS44572   LTD ParmaTel
 95.137.3.58      # RU  AS20632   PJSC MegaFon
@@ -598,9 +606,7 @@
 95.154.84.123    # RU  AS44724   Octopusnet LTD
 95.154.152.185   # RU  AS43714   Production co-operative Economic-legal laboratory
 95.165.25.233    # RU  AS25513   PJSC Moscow city telephone network
-95.165.77.31     # RU  AS25513   PJSC Moscow city telephone network
 95.165.84.70     # RU  AS25513   PJSC Moscow city telephone network
-95.165.84.171    # RU  AS25513   PJSC Moscow city telephone network
 95.165.105.105   # RU  AS25513   PJSC Moscow city telephone network
 95.165.142.8     # RU  AS25513   PJSC Moscow city telephone network
 95.165.146.107   # RU  AS25513   PJSC Moscow city telephone network
@@ -614,54 +620,50 @@
 95.174.100.64    # RU  AS60246   Consumer Internet Cooperative PG-19
 95.174.115.162   # RU  AS60246   Consumer Internet Cooperative PG-19
 95.174.117.234   # RU  AS60246   Consumer Internet Cooperative PG-19
-95.174.125.136   # RU  AS60246   Consumer Internet Cooperative PG-19
+95.182.83.99     # RU  AS50671   First Digital TV Ltd
 95.182.92.198    # RU  AS50671   First Digital TV Ltd
 95.182.94.63     # RU  AS50671   First Digital TV Ltd
+95.188.91.101    # RU  AS12389   PJSC Rostelecom
+95.189.41.150    # RU  AS12389   PJSC Rostelecom
 95.189.97.13     # RU  AS12389   PJSC Rostelecom
 95.190.152.204   # RU  AS12389   PJSC Rostelecom
-95.215.0.144     # RU  AS34665   Petersburg Internet Network ltd.
 95.215.50.202    # RU  AS48882   Optima-Shid LLC
 95.215.87.127    # RU  AS51156   OngNet Plus LLC
-95.215.108.8     # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
 95.220.46.175    # RU  AS12714   PJSC MegaFon
 95.220.193.183   # RU  AS12714   PJSC MegaFon
 95.220.205.33    # RU  AS12714   PJSC MegaFon
 104.28.198.244   # RU  AS13335   Cloudflare, Inc.
-104.28.198.246   # RU  AS13335   Cloudflare, Inc.
 104.28.198.247   # RU  AS13335   Cloudflare, Inc.
 104.28.230.244   # RU  AS13335   Cloudflare, Inc.
-104.28.230.245   # RU  AS13335   Cloudflare, Inc.
-104.28.230.246   # RU  AS13335   Cloudflare, Inc.
-104.28.230.247   # RU  AS13335   Cloudflare, Inc.
-104.28.232.200   # RU  AS13335   Cloudflare, Inc.
 109.63.132.12    # RU  AS12714   PJSC MegaFon
 109.63.150.187   # RU  AS12714   PJSC MegaFon
+109.63.152.66    # RU  AS12714   PJSC MegaFon
 109.63.153.179   # RU  AS12714   PJSC MegaFon
-109.63.158.123   # RU  AS12714   PJSC MegaFon
 109.63.161.142   # RU  AS12714   PJSC MegaFon
 109.63.170.150   # RU  AS12714   PJSC MegaFon
+109.63.182.234   # RU  AS12714   PJSC MegaFon
+109.63.189.234   # RU  AS12714   PJSC MegaFon
 109.69.78.113    # RU  AS57214   Vidikon-K, CJSC
 109.71.177.143   # RU  AS215179  Smart Home Limited Liability Company
 109.72.231.189   # RU  AS31370   OOO "Gruppa MosLine"
 109.72.235.191   # RU  AS31370   OOO "Gruppa MosLine"
-109.72.242.186   # RU  AS49863   Lite-Telecom Limited
 109.94.87.173    # RU  AS50060   Annet Ltd.
 109.94.187.153   # RU  AS44895   MTS PJSC
 109.95.219.101   # RU  AS50471   Limited Liability Company Sviaz Industriya
 109.95.219.225   # RU  AS50471   Limited Liability Company Sviaz Industriya
 109.106.129.198  # RU  AS43727   KVANT TELECOM
+109.106.137.203  # RU  AS43727   KVANT TELECOM
 109.110.35.30    # RU  AS196949  Natalia Sergeevna Filicheva
 109.111.183.230  # RU  AS34757   Sibirskie Seti Ltd.
 109.124.192.130  # RU  AS35032   LLC SIP "NIS"
 109.126.41.234   # RU  AS42038   Krivets Sergey Sergeevich
 109.169.195.88   # RU  AS12389   PJSC Rostelecom
-109.170.8.64     # RU  AS12714   PJSC MegaFon
 109.173.38.135   # RU  AS42610   PJSC Rostelecom
 109.173.39.103   # RU  AS42610   PJSC Rostelecom
 109.173.107.163  # RU  AS42610   PJSC Rostelecom
+109.174.14.5     # RU  AS30922   MTS PJSC
 109.174.77.20    # RU  AS30922   MTS PJSC
 109.174.104.74   # RU  AS30922   MTS PJSC
-109.184.191.186  # RU  AS12389   PJSC Rostelecom
 109.188.81.30    # RU  AS25159   PJSC MegaFon
 109.194.7.110    # RU  AS57044   JSC "ER-Telecom Holding"
 109.194.17.195   # RU  AS51645   JSC "ER-Telecom Holding"
@@ -670,7 +672,6 @@
 109.195.19.44    # RU  AS50543   JSC "ER-Telecom Holding"
 109.195.21.220   # RU  AS50543   JSC "ER-Telecom Holding"
 109.195.36.14    # RU  AS50512   JSC "ER-Telecom Holding"
-109.195.38.186   # RU  AS50512   JSC "ER-Telecom Holding"
 109.195.50.100   # RU  AS50542   JSC "ER-Telecom Holding"
 109.195.98.241   # RU  AS51604   JSC "ER-Telecom Holding"
 109.195.147.133  # RU  AS51035   JSC "ER-Telecom Holding"
@@ -678,43 +679,37 @@
 109.196.136.127  # RU  AS61431   TELECOMMUNICATION COMPANY KAMA - LINK LLC.
 109.197.136.187  # RU  AS49120   Gorset Ltd.
 109.202.10.12    # RU  AS8711    JSC Avantel
+109.205.242.8    # RU  AS203353  Agrisovgaz Ltd.
 109.207.88.47    # RU  AS48149   Ivanteevskie telecommunicacii Ltd
 109.207.95.46    # RU  AS48149   Ivanteevskie telecommunicacii Ltd
 109.226.236.44   # RU  AS31257   Orion Telecom LLC
 109.238.86.154   # RU  -         -
 109.248.132.249  # RU  AS209546  NK-NET OOO
 109.248.252.238  # RU  AS49478   Provodov.net Ltd.
-128.0.26.47      # RU  AS41794   Sibirskie Seti Ltd.
-128.0.80.242     # RU  AS202279  STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC "REPUBLICAN TELECOMMUNICATIONS OPERATOR"
 128.0.83.186     # RU  AS202279  STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC "REPUBLICAN TELECOMMUNICATIONS OPERATOR"
 128.0.83.210     # RU  AS202279  STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC "REPUBLICAN TELECOMMUNICATIONS OPERATOR"
 128.0.136.107    # RU  AS25513   PJSC Moscow city telephone network
 128.1.46.183     # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 128.75.244.55    # RU  AS52193   EUROCONTACT VELIKY NOVGOROD LLC
 128.75.252.225   # RU  AS3216    PJSC "Vimpelcom"
-128.127.145.46   # RU  AS198774  Ltd. "Regional Media Transit"
 130.49.181.91    # RU  -         -
 130.49.181.239   # RU  -         -
 130.49.213.169   # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
 130.49.213.228   # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
-136.169.215.132  # RU  AS60095   JSC "Ufanet"
-138.124.77.177   # RO  AS44559   IT HOSTLINE LTD
+141.98.86.147    # RU  AS20655   e-Style ISP LLC
 141.101.229.82   # RU  AS62103   AirLink Ltd.
-145.249.109.110  # ES  AS215540  GLOBAL CONNECTIVITY SOLUTIONS LLP
 146.120.111.5    # RU  AS198056  TeleOka Kom Ltd.
 146.120.203.116  # RU  AS213624  Net Space LLC
 146.158.2.71     # RU  AS43849   Sever-Svyaz LLC
+146.158.111.194  # RU  AS210616  SM Ltd.
+146.158.121.35   # RU  AS210616  SM Ltd.
 146.158.124.105  # RU  AS210616  SM Ltd.
-147.45.48.189    # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
 147.45.60.142    # RU  AS215540  GLOBAL CONNECTIVITY SOLUTIONS LLP
 147.45.164.169   # RU  AS9123    JSC TIMEWEB
 147.45.211.106   # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
-147.45.211.139   # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
 147.45.221.53    # NL  AS215540  GLOBAL CONNECTIVITY SOLUTIONS LLP
-151.0.48.93      # RU  AS60246   Consumer Internet Cooperative PG-19
 151.0.50.166     # RU  AS60246   Consumer Internet Cooperative PG-19
 151.0.51.84      # RU  AS60246   Consumer Internet Cooperative PG-19
-151.237.170.49   # RU  AS29072   Regional Digital Telecommunication Company LLC
 151.252.111.65   # RU  AS48479   KUBAN-TELECOM Ltd.
 152.32.176.68    # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.178.47    # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -722,7 +717,6 @@
 152.32.227.68    # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.227.252   # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 152.32.228.20    # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-154.90.70.254    # RU  AS13335   Cloudflare, Inc.
 155.212.17.174   # RU  AS3226    OOO NI
 156.229.16.142   # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 156.229.16.165   # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
@@ -731,16 +725,21 @@
 165.154.179.62   # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.179.204  # RU  AS135377  UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 166.88.33.139    # US  -         -
+171.33.249.255   # RU  AS31257   Orion Telecom LLC
 176.52.13.150    # RU  AS29194   MTS PJSC
 176.57.76.206    # RU  AS199634  Yedinaya Setevaya Kompaniya Ltd
 176.62.84.105    # RU  AS47165   Omskie kabelnye seti Ltd.
 176.65.46.211    # RU  AS49814   TomGate LLC
+176.77.46.141    # RU  AS12714   PJSC MegaFon
+176.77.66.74     # RU  AS12714   PJSC MegaFon
+176.77.72.62     # RU  AS12714   PJSC MegaFon
 176.97.190.108   # RU  AS57333   KaspiyTelekom Ltd.
 176.98.155.63    # RU  AS57396   Aliev Magomed Kadievich
-176.99.138.210   # RU  AS35598   INETCOM CARRIER LLC
 176.99.159.70    # RU  AS35598   INETCOM CARRIER LLC
 176.101.247.170  # RU  AS57534   PE Ahmedov Alil Aliomarovich
 176.101.248.249  # RU  AS57534   PE Ahmedov Alil Aliomarovich
+176.107.249.61   # RU  AS57798   IT-Net ltd.
+176.107.249.121  # RU  AS57798   IT-Net ltd.
 176.109.67.69    # RU  AS60490   MTS PJSC
 176.111.64.19    # RU  AS48725   Agrosvyaz-M Ltd
 176.111.64.38    # RU  AS48725   Agrosvyaz-M Ltd
@@ -750,21 +749,20 @@
 176.112.108.20   # RU  AS198616  MediaKvant Ltd.
 176.112.108.51   # RU  AS198616  MediaKvant Ltd.
 176.112.111.1    # RU  AS198616  MediaKvant Ltd.
-176.112.111.10   # RU  AS198616  MediaKvant Ltd.
 176.112.111.17   # RU  AS198616  MediaKvant Ltd.
-176.112.111.18   # RU  AS198616  MediaKvant Ltd.
 176.112.111.28   # RU  AS198616  MediaKvant Ltd.
 176.112.111.30   # RU  AS198616  MediaKvant Ltd.
-176.112.111.34   # RU  AS198616  MediaKvant Ltd.
 176.112.111.40   # RU  AS198616  MediaKvant Ltd.
-176.112.111.46   # RU  AS198616  MediaKvant Ltd.
 176.115.207.234  # RU  AS50241   UnitTelecom Ltd
-176.116.178.171  # RU  AS31257   Orion Telecom LLC
+176.116.167.164  # RU  AS31257   Orion Telecom LLC
 176.116.186.138  # RU  AS50427   Orion Telecom LLC
 176.116.186.172  # RU  AS50427   Orion Telecom LLC
+176.117.129.13   # RU  AS58158   KTV Ltd.
 176.117.198.8    # RU  AS44484   X-Trim Ltd.
 176.118.0.135    # RU  AS205711  Igra-Service LLC
+176.118.197.148  # RU  AS209592  Internet42 LLC
 176.118.217.106  # RU  AS60042   OnTelecom LLC
+176.119.185.210  # RU  AS12389   PJSC Rostelecom
 176.120.22.6     # RU  -         -
 176.120.22.16    # RU  -         -
 176.120.22.36    # RU  -         -
@@ -791,22 +789,23 @@
 176.120.22.240   # RU  -         -
 176.120.22.242   # RU  -         -
 176.120.216.202  # RU  AS57227   Subnet LLC
-176.125.242.26   # RU  -         -
-176.192.40.102   # RU  AS12714   PJSC MegaFon
 176.192.198.233  # RU  AS12714   PJSC MegaFon
 176.192.218.229  # RU  AS12714   PJSC MegaFon
+176.193.12.165   # RU  AS12714   PJSC MegaFon
+176.193.117.136  # RU  AS12714   PJSC MegaFon
 176.193.122.4    # RU  AS12714   PJSC MegaFon
+176.193.124.225  # RU  AS12714   PJSC MegaFon
 176.194.42.222   # RU  AS12714   PJSC MegaFon
 176.195.31.118   # RU  AS12714   PJSC MegaFon
+176.195.90.247   # RU  AS12714   PJSC MegaFon
 176.195.114.63   # RU  AS12714   PJSC MegaFon
 176.196.38.213   # RU  AS39927   E-Light-Telecom Ltd.
 176.196.61.12    # RU  AS39927   E-Light-Telecom Ltd.
 176.196.176.122  # RU  AS39927   E-Light-Telecom Ltd.
+176.211.30.69    # RU  AS12389   PJSC Rostelecom
 176.211.106.206  # RU  AS12389   PJSC Rostelecom
 176.211.121.1    # UA  AS201776  Miranda-Media Ltd
-176.212.226.131  # RU  AS34590   JSC "ER-Telecom Holding"
 176.213.75.105   # RU  AS50498   JSC "ER-Telecom Holding"
-176.213.138.221  # RU  AS57378   JSC "ER-Telecom Holding"
 176.214.1.195    # RU  AS41843   JSC "ER-Telecom Holding"
 176.214.240.102  # RU  AS52207   JSC "ER-Telecom Holding"
 176.215.19.8     # RU  AS51604   JSC "ER-Telecom Holding"
@@ -823,11 +822,10 @@
 178.46.148.174   # RU  AS12389   PJSC Rostelecom
 178.46.161.220   # RU  AS12389   PJSC Rostelecom
 178.46.162.165   # RU  AS12389   PJSC Rostelecom
+178.49.6.151     # RU  AS31200   Novotelecom Ltd
 178.49.14.104    # RU  AS31200   Novotelecom Ltd
-178.57.100.38    # RU  AS61403   Sever Telecom JSC
 178.64.15.158    # RU  AS12389   PJSC Rostelecom
 178.64.189.68    # RU  AS12389   PJSC Rostelecom
-178.64.235.130   # RU  AS12389   PJSC Rostelecom
 178.65.173.96    # RU  AS12389   PJSC Rostelecom
 178.67.68.175    # RU  AS12389   PJSC Rostelecom
 178.67.121.33    # RU  AS12389   PJSC Rostelecom
@@ -836,16 +834,18 @@
 178.69.99.191    # RU  AS12389   PJSC Rostelecom
 178.71.21.253    # RU  AS12389   PJSC Rostelecom
 178.71.245.168   # RU  AS12389   PJSC Rostelecom
-178.74.109.143   # RU  AS15870   Bst Ltd.
 178.74.109.179   # RU  AS15870   Bst Ltd.
 178.74.109.188   # RU  AS15870   Bst Ltd.
 178.74.109.190   # RU  AS15870   Bst Ltd.
+178.74.109.242   # RU  AS15870   Bst Ltd.
 178.74.110.94    # RU  AS47165   Omskie kabelnye seti Ltd.
 178.75.8.94      # RU  AS57044   JSC "ER-Telecom Holding"
 178.78.55.226    # RU  AS51604   JSC "ER-Telecom Holding"
 178.129.134.27   # RU  AS28812   PJSC "Bashinformsvyaz"
 178.140.129.139  # RU  AS42610   PJSC Rostelecom
+178.141.58.157   # RU  AS8359    MTS PJSC
 178.159.41.95    # RU  AS62410   Linenet Ltd.
+178.161.135.90   # RU  AS12768   JSC "ER-Telecom Holding"
 178.161.192.38   # RU  AS12768   JSC "ER-Telecom Holding"
 178.163.3.99     # RU  AS8416    InfoLada Ltd
 178.163.86.9     # RU  AS8416    InfoLada Ltd
@@ -854,6 +854,7 @@
 178.173.39.201   # RU  AS47759   POIG Ltd.
 178.176.229.22   # RU  AS24866   Cloud Megafon
 178.176.229.36   # RU  AS24866   Cloud Megafon
+178.178.120.98   # RU  AS31133   PJSC MegaFon
 178.178.120.138  # RU  AS31133   PJSC MegaFon
 178.178.194.123  # RU  AS25159   PJSC MegaFon
 178.178.194.128  # RU  AS25159   PJSC MegaFon
@@ -880,7 +881,10 @@
 178.185.202.150  # RU  AS12389   PJSC Rostelecom
 178.185.223.124  # RU  AS12389   PJSC Rostelecom
 178.204.101.196  # RU  AS28840   PJSC "TATTELECOM"
-178.205.56.60    # RU  AS28840   PJSC "TATTELECOM"
+178.207.14.244   # RU  AS28840   PJSC "TATTELECOM"
+178.207.197.5    # RU  AS28840   PJSC "TATTELECOM"
+178.209.97.14    # RU  AS8595    OOO WestCall Ltd.
+178.212.139.241  # RU  AS60246   Consumer Internet Cooperative PG-19
 178.213.79.173   # RU  AS203542  IT-PROF LLC
 178.213.114.194  # RU  AS51579   Korporatvniy partner Ltd
 178.214.160.4    # RU  AS39728   Likhno Dmitriy trading as Luganet
@@ -890,12 +894,10 @@
 178.217.76.2     # GE  AS51112   OSS Ltd
 178.218.117.179  # RU  AS49403   AVK-Wellcom Ltd.
 178.219.38.228   # RU  AS51077   Modern Technologies Ltd.
-178.248.5.228    # RU  AS60246   Consumer Internet Cooperative PG-19
 178.248.236.209  # RU  AS51115   HLL LLC
 178.249.244.158  # RU  AS42277   Limited liability company Kursktelecom
 178.251.140.3    # RU  AS31363   JSC "ER-Telecom Holding"
 178.251.142.166  # RU  AS31363   JSC "ER-Telecom Holding"
-178.252.127.244  # RU  AS42893   Home Internet Ltd
 178.255.121.218  # RU  AS34467   JSC Telephone Company "Sotcom"
 185.8.125.51     # RU  AS199634  Yedinaya Setevaya Kompaniya Ltd
 185.9.184.157    # RU  AS60246   Consumer Internet Cooperative PG-19
@@ -905,7 +907,6 @@
 185.14.4.77      # RU  AS62040   Innovative Telecommunications LLC
 185.14.4.199     # RU  AS62040   Innovative Telecommunications LLC
 185.15.61.102    # RU  AS48078   Dagomys Telecom LLC
-185.15.189.232   # RU  AS61021   MAVOTEL LLC
 185.16.214.226   # RU  AS61400   Start2 LLC
 185.39.118.137   # RU  AS30936   RENET COM Ltd.
 185.41.207.187   # RU  AS60740   Joint-Stock company "Arctictelecom"
@@ -918,92 +919,81 @@
 185.73.16.102    # RU  AS201211  LLC "Drugoy Telecom"
 185.75.181.87    # RU  AS25341   "Nauchno proizvodstvennaya Firma "Raspredelennaya Obrabotka Informacii" LLC
 185.76.220.72    # RU  AS41148   Zolotaya Linia JSC.
-185.82.246.231   # RU  AS12737   KrasPromStroy, LLC
-185.84.188.55    # RU  AS201135  Dream Net Ltd
+185.84.41.100    # RU  AS39709   EXTREME LTD
+185.84.189.112   # RU  AS201135  Dream Net Ltd
 185.90.101.64    # RU  AS47236   CityLink Ltd
-185.91.52.152    # RU  AS49505   JSC Selectel
-185.91.53.170    # RU  AS49505   JSC Selectel
 185.91.179.29    # RU  AS12737   KrasPromStroy, LLC
 185.94.111.1     # RU  AS51115   HLL LLC
 185.95.229.211   # RU  AS208314  Access Telecom Ltd.
 185.99.5.19      # GE  AS50257   JV A-Mobile Ltd.
 185.99.5.222     # GE  AS50257   JV A-Mobile Ltd.
-185.99.5.237     # GE  AS50257   JV A-Mobile Ltd.
 185.99.5.239     # GE  AS50257   JV A-Mobile Ltd.
 185.99.6.47      # GE  AS50257   JV A-Mobile Ltd.
-185.99.6.50      # GE  AS50257   JV A-Mobile Ltd.
-185.99.6.59      # GE  AS50257   JV A-Mobile Ltd.
 185.99.6.101     # GE  AS50257   JV A-Mobile Ltd.
 185.99.6.102     # GE  AS50257   JV A-Mobile Ltd.
-185.100.27.203   # RU  AS60747   MODUS LLC
+185.99.6.133     # GE  AS50257   JV A-Mobile Ltd.
 185.102.139.60   # RU  AS205090  FIRST SERVER LIMITED
 185.108.211.35   # RU  AS204272  ASARTA LLC
 185.124.154.244  # RU  AS12737   KrasPromStroy, LLC
 185.125.200.75   # NL  AS210976  Timeweb, LLP
-185.135.151.120  # RU  AS8636    MAXnet Systems Ltd.
 185.138.207.99   # RU  AS8359    MTS PJSC
 185.139.214.221  # RU  AS48430   Perviy TSOD LLC
-185.141.234.220  # RU  AS214173  Sever Telecom JSC
 185.146.212.50   # UA  AS197159  Trinet Ltd.
 185.153.45.171   # RU  AS202838  OOO "Intercom"
 185.153.95.177   # RU  AS212600  newnet samara
 185.160.37.115   # RU  AS208720  RegionInfoCom LLC
-185.169.100.179  # RU  AS12389   PJSC Rostelecom
-185.178.208.140  # RU  AS57724   DDOS-GUARD LTD
 185.180.229.105  # RU  AS213369  Sfera Telecom LLC
 185.182.111.210  # RU  AS197695  Domain names registrar REG.RU, Ltd
-185.186.140.179  # RU  AS204490  Kontel LLC
-185.193.199.172  # RU  AS49732   Joint Stock Company Tyvasviazinform
 185.196.31.231   # RU  AS201285  Kirzhachtelecom LLC
 185.213.213.9    # RU  AS208056  Smartcom LLC
-185.219.41.85    # RU  AS211642  AdminVPS OOO
+185.228.133.52   # GE  AS57354   SYSTEMA Ltd
+185.228.135.33   # GE  AS57354   SYSTEMA Ltd
+185.228.135.54   # GE  AS57354   SYSTEMA Ltd
 185.228.135.170  # GE  AS57354   SYSTEMA Ltd
+185.229.123.210  # RU  AS197793  Gigabit LLC
 185.230.240.211  # RU  AS60246   Consumer Internet Cooperative PG-19
-185.231.154.128  # RU  AS48282   Hosting technology LTD
 185.231.155.169  # RU  AS48282   Hosting technology LTD
 185.233.94.151   # RU  AS29076   Citytelecom LLC
 185.245.184.230  # RU  AS62241   ForestNet ISP
-185.251.149.13   # RU  AS197204  TeleMaks Ltd
-188.17.85.132    # RU  AS12389   PJSC Rostelecom
 188.32.104.175   # RU  AS42610   PJSC Rostelecom
 188.32.210.218   # RU  AS42610   PJSC Rostelecom
 188.43.28.193    # RU  AS20485   Joint Stock Company TransTeleCom
 188.43.204.45    # RU  AS20485   Joint Stock Company TransTeleCom
 188.64.161.40    # RU  AS212016  OOO ZVI Telecom
-188.64.163.190   # RU  AS31626   OOO ZVI Telecom
 188.68.218.233   # RU  AS49505   JSC Selectel
 188.94.33.21     # RU  AS49368   DomoLAN Ltd.
 188.120.52.223   # RU  AS44507   OJSC Kostroma Municipal Telephone Network
 188.124.228.197  # UA  AS201776  Miranda-Media Ltd
 188.128.63.114   # RU  AS12389   PJSC Rostelecom
+188.128.73.58    # RU  AS12389   PJSC Rostelecom
 188.130.250.252  # RU  AS207501  Bikinskie Elektronnye Systemy OOO
-188.133.157.248  # RU  AS21353   JSC "ER-Telecom Holding"
+188.134.90.60    # RU  AS41733   JSC "ER-Telecom Holding"
 188.143.170.185  # RU  AS44050   Petersburg Internet Network ltd.
 188.168.86.6     # RU  AS15774   Limited Liability Company "TTK-Svyaz"
-188.186.201.143  # RU  AS42683   JSC "ER-Telecom Holding"
-188.187.107.163  # RU  AS51570   JSC "ER-Telecom Holding"
 188.187.144.104  # RU  AS41786   JSC "ER-Telecom Holding"
 188.191.165.234  # RU  AS50577   Intelsc Ltd.
 188.225.62.59    # RU  AS9123    JSC TIMEWEB
 188.225.62.73    # RU  AS9123    JSC TIMEWEB
 188.226.36.26    # RU  AS12668   LLC KomTehCentr
 188.227.79.174   # RU  AS35000   JSC "Severen-Telecom"
+188.227.111.138  # RU  AS35000   JSC "Severen-Telecom"
 188.232.110.94   # RU  AS41843   JSC "ER-Telecom Holding"
 188.232.191.248  # RU  AS41843   JSC "ER-Telecom Holding"
 188.232.206.51   # RU  AS41843   JSC "ER-Telecom Holding"
+188.232.226.51   # RU  AS41843   JSC "ER-Telecom Holding"
 188.233.70.195   # RU  AS39435   JSC "ER-Telecom Holding"
 188.234.95.146   # RU  AS51604   JSC "ER-Telecom Holding"
 188.234.165.67   # RU  AS56981   JSC "ER-Telecom Holding"
 188.234.234.153  # RU  AS51604   JSC "ER-Telecom Holding"
 188.234.242.48   # RU  AS51604   JSC "ER-Telecom Holding"
-188.240.17.212   # RU  AS204297  LLC " Belgorod Networking Telecommunication Company"
+188.235.18.124   # RU  AS50542   JSC "ER-Telecom Holding"
+188.235.60.216   # RU  AS50542   JSC "ER-Telecom Holding"
 188.247.43.42    # RU  AS39442   JSC RDE "Unico"
 188.247.54.50    # RU  AS39442   JSC RDE "Unico"
-188.254.50.86    # RU  AS12389   PJSC Rostelecom
-192.144.4.151    # RU  AS56529   RuaD-Group LLC
-192.144.4.157    # RU  AS56529   RuaD-Group LLC
 193.3.42.37      # RU  AS60599   KOMPAS TELECOM Ltd
+193.24.123.94    # RU  AS200593  PROSPERO OOO
 193.24.123.123   # RU  AS200593  PROSPERO OOO
+193.37.69.113    # RU  AS213194  Nechaev Dmitry Sergeevich
 193.106.185.174  # RU  AS42238   Bospor-Telecom LLC
 193.143.1.51     # RU  AS198953  Proton66 OOO
 193.143.1.53     # RU  AS198953  Proton66 OOO
@@ -1017,65 +1007,51 @@
 193.143.1.123    # RU  AS198953  Proton66 OOO
 193.160.204.183  # RU  AS58096   Viter Evgeniy Vasilevich
 193.160.205.126  # RU  AS58096   Viter Evgeniy Vasilevich
-193.169.28.244   # RU  AS49320   Golitsyno Telecom Ltd
 193.187.172.166  # RU  AS50340   JSC Selectel
-193.233.48.169   # RU  AS207713  GLOBAL INTERNET SOLUTIONS LLC
 193.233.56.51    # RU  AS202999  Vostok Telecom LLC
 193.233.198.109  # DE  AS215540  GLOBAL CONNECTIVITY SOLUTIONS LLP
 193.233.199.37   # FI  AS215540  GLOBAL CONNECTIVITY SOLUTIONS LLP
-193.242.149.11   # RU  AS58314   SvyazResurs-Kuban, LLC
-194.15.59.41     # RU  AS57411   Novotehniks LLC
 194.32.242.133   # RU  AS213937  Gagra Telecom LLC
 194.32.242.141   # RU  AS213937  Gagra Telecom LLC
 194.32.242.163   # RU  AS213937  Gagra Telecom LLC
+194.38.2.5       # UA  AS209789  Nikolay Olegovich Tokarev
+194.38.2.23      # UA  AS209789  Nikolay Olegovich Tokarev
 194.38.2.197     # UA  AS209789  Nikolay Olegovich Tokarev
-194.55.245.192   # RU  AS34959   PROCLOUD MSK
 194.58.123.252   # RU  AS197695  Domain names registrar REG.RU, Ltd
 194.58.183.211   # RU  AS44507   OJSC Kostroma Municipal Telephone Network
+194.60.242.194   # RU  AS39577   Goodnet LLC
 194.62.0.82      # RU  AS34464   Media Sououz Ltd.
+194.67.59.27     # RU  AS3216    PJSC "Vimpelcom"
 194.67.103.95    # RU  AS197695  Domain names registrar REG.RU, Ltd
 194.67.109.34    # RU  AS197695  Domain names registrar REG.RU, Ltd
 194.79.5.180     # RU  AS42742   InterkamService LLC
-194.85.22.1      # RU  AS57658   Joint Stock Company "AUTOASSISTANCE"
-194.85.210.244   # RU  AS51200   LLC Digital Dialogue-Nets
-194.85.210.247   # RU  AS51200   LLC Digital Dialogue-Nets
-194.85.211.20    # RU  AS51200   LLC Digital Dialogue-Nets
 194.135.98.66    # RU  AS25513   PJSC Moscow city telephone network
 194.135.123.68   # RU  AS25513   PJSC Moscow city telephone network
 194.154.92.163   # RU  AS3216    PJSC "Vimpelcom"
-194.186.169.250  # RU  AS3216    PJSC "Vimpelcom"
-194.190.1.192    # RU  AS199730  MS-TELECOM LLC
-194.190.80.14    # RU  AS50776   Joint Stock Company System Telecom
-194.190.153.226  # RU  AS41745   Baykov Ilya Sergeevich
-194.226.181.16   # RU  AS201302  LLC "VOLNA"
-194.226.181.20   # RU  AS201302  LLC "VOLNA"
 195.2.67.184     # RU  AS48282   Hosting technology LTD
 195.2.71.225     # RU  AS48282   Hosting technology LTD
 195.2.78.191     # RU  AS48282   Hosting technology LTD
 195.2.79.165     # RU  AS48282   Hosting technology LTD
 195.2.84.198     # RU  AS48282   Hosting technology LTD
-195.9.34.73      # RU  AS25513   PJSC Moscow city telephone network
 195.18.12.11     # UA  AS196638  JSC Promtelecom
 195.19.20.240    # RU  AS48035   PJSC Yakovlev
+195.19.113.42    # RU  AS209821  AO MIRS
 195.46.162.60    # RU  AS3216    PJSC "Vimpelcom"
 195.62.34.21     # RU  AS199901  S-Telecom LLC
 195.66.89.124    # RU  AS39121   Eniseyneftegas Territorial Industrial Technical Management of Communication LLC
 195.88.120.62    # RU  AS48969   Parus-Telecom Ltd.
 195.88.127.171   # RU  AS49124   CentroSet Ltd.
-195.88.178.65    # RU  AS49098   Studiya NOVA LLC
 195.91.131.218   # RU  AS31363   JSC "ER-Telecom Holding"
 195.91.217.34    # RU  AS31363   JSC "ER-Telecom Holding"
-195.93.148.0     # RU  AS50187   BaikalWestCom
 195.96.162.198   # RU  AS6863    OJSC Rosnet
+195.98.86.153    # RU  AS6856    AO IK "Informsvyaz-Chernozemye"
 195.112.228.230  # RU  AS5573    PJSC Rostelecom
-195.128.99.50    # RU  AS31566   SkyNetwork Ltd.
 195.161.21.219   # RU  AS8342    JSC RTComm.RU
 195.161.62.230   # RU  AS8342    JSC RTComm.RU
 195.178.197.45   # RU  AS5429    Telecommunications center UMOS, LLC
 195.178.202.142  # RU  AS5429    Telecommunications center UMOS, LLC
 195.184.218.85   # RU  AS41039   Timer, LLC
 195.189.123.188  # RU  AS41095   IPTP LTD
-195.190.126.122  # RU  AS3216    PJSC "Vimpelcom"
 195.206.43.43    # RU  AS8345    JSC "ER-Telecom Holding"
 195.206.63.137   # RU  AS8345    JSC "ER-Telecom Holding"
 195.208.188.129  # RU  AS49954   Progress Technology LLC
@@ -1099,7 +1075,7 @@
 212.104.88.237   # RU  AS28890   INSYS ISP
 212.107.233.209  # RU  AS49293   Digital Tehnology Ltd
 212.107.240.181  # RU  -         -
-212.188.11.146   # RU  AS8359    MTS PJSC
+212.113.109.222  # NL  AS215590  DpkgSoft International Limited
 212.220.21.10    # RU  AS12389   PJSC Rostelecom
 212.233.125.222  # RU  AS9110    AMT GROUP TELECOM Limited Liability Company
 212.248.39.29    # RU  AS8359    MTS PJSC
@@ -1108,24 +1084,25 @@
 213.33.204.130   # RU  AS3216    PJSC "Vimpelcom"
 213.59.156.9     # RU  AS200982  Zelenaya Tochka TOMSK LLC
 213.85.70.206    # RU  AS8615    "Central Telegraph" Public Joint-stock Company
+213.108.3.171    # RU  AS20655   e-Style ISP LLC
 213.141.130.251  # RU  AS12714   PJSC MegaFon
-213.150.76.154   # RU  AS13095   PJSC "Vimpelcom"
-213.167.43.130   # RU  AS8905    Digit One LLC
-213.217.2.242    # RU  AS213681  IE Batov Aleksandr Aleksandrovich
 213.221.63.119   # RU  AS3216    PJSC "Vimpelcom"
 213.234.5.66     # RU  AS39442   JSC RDE "Unico"
 213.234.8.114    # RU  AS39442   JSC RDE "Unico"
 213.234.9.218    # RU  AS39442   JSC RDE "Unico"
 213.234.11.10    # RU  AS39442   JSC RDE "Unico"
 217.8.226.227    # RU  AS8359    MTS PJSC
+217.23.16.238    # RU  AS12389   PJSC Rostelecom
 217.24.185.98    # RU  AS28890   INSYS ISP
 217.24.185.244   # RU  AS28890   INSYS ISP
 217.25.93.54     # RU  AS9123    JSC TIMEWEB
 217.65.3.240     # RU  AS3175    Citytelecom LLC
+217.66.150.233   # RU  AS8359    MTS PJSC
 217.72.5.51      # RU  AS50299   Thyphone Communications LLC
 217.76.44.36     # RU  AS16143   OOO NIIR-RadioNet
 217.115.87.186   # RU  AS29648   PJSC MegaFon
 217.118.177.195  # RU  AS28840   PJSC "TATTELECOM"
+217.119.23.106   # RU  AS31376   Smart Telecom Limited
+217.144.165.219  # RU  AS57251   LLC Intelcom
 217.149.191.246  # RU  AS39442   JSC RDE "Unico"
 217.150.37.249   # RU  AS20485   Joint Stock Company TransTeleCom
-217.150.47.21    # RU  AS20485   Joint Stock Company TransTeleCom
