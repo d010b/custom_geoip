@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/d010b/custom_geoip/main/custom_geoip.dat
     - "wb"
     - "ozon"
     - "sber"
+    - "geo-detect"
  ```
 
 Using full files, which often weigh tens of megabytes, overloads the RAM at startup. The geoip.dat and geosite.dat files, free of unnecessary content…
