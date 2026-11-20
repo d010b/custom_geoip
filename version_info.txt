@@ -1,10 +1,10 @@
 # GeoIP Databases Information
-Last Update: 2026-11-19 01:08:19
+Last Update: 2026-11-20 01:08:06
 Server: vm4637737.firstbyte.club
 User: root
 
 ## Files:
-- geoip.dat: 1M (MD5: b0463757c3c8c3cdf84b0a7c4b484cdd)
-- geosite.dat: 43M (MD5: c1206acf563a5b0947d780977b4f2404)
-- russian_attackers_final.txt: 67K (MD5: 5fbeb3ef7c558dd41d7e61acb0dd5334)
-- custom_geoip.dat: 68K (MD5: 123f54816e8f9c0529571b335c702f04)
+- geoip.dat: 1M (MD5: e0daca4f1f735a781b12f7a71e909252)
+- geosite.dat: 43M (MD5: a46ee536a185da469e3e1149ba5bf0f8)
+- russian_attackers_final.txt: 73K (MD5: b18a91554b4f1c8c10fb5a0e55c7ba94)
+- custom_geoip.dat: 69K (MD5: 5c9da4570b69ab11426953a59a99c12b)
